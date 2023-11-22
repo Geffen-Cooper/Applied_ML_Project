@@ -162,3 +162,9 @@ cython_debug/
 data/train.csv
 data/test.csv
 submission/sample_submission.csv
+*.csv
+*.pickle
+*.json
+exploration/cache
+exploration/catboost_info
+*.html
