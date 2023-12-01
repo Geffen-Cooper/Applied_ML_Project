@@ -168,3 +168,4 @@ submission/sample_submission.csv
 exploration/cache
 exploration/catboost_info
 *.html
+*.yml
